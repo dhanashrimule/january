@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-20T20:26:30 IST" name="Passport India Application" finished-at="2023-12-20T20:27:12 IST" duration-ms="42144">
+    <groups>
+    </groups>
+    <test started-at="2023-12-20T20:26:30 IST" name="Register Page Test Cases" finished-at="2023-12-20T20:27:12 IST" duration-ms="42144">
+      <class name="TestLayer.RegisterPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.RegisterPageTest@57a3af25]" started-at="2023-12-20T20:26:30 IST" name="setUp" finished-at="2023-12-20T20:26:33 IST" duration-ms="3103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateRegisterUserFunctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestLayer.RegisterPageTest@57a3af25]" started-at="2023-12-20T20:26:33 IST" name="validateRegisterUserFunctionality" data-provider="registerTestData" finished-at="2023-12-20T20:26:40 IST" duration-ms="7274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Goa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Patil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10/12/2000]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[rahul@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[rahul1@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Rahul@123]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Rahul@123]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Birth City]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterUserFunctionality -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.RegisterPageTest@57a3af25]" started-at="2023-12-20T20:26:40 IST" name="setUp" finished-at="2023-12-20T20:26:43 IST" duration-ms="2348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateRegisterUserFunctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestLayer.RegisterPageTest@57a3af25]" started-at="2023-12-20T20:26:43 IST" name="validateRegisterUserFunctionality" data-provider="registerTestData" finished-at="2023-12-20T20:26:52 IST" duration-ms="8902" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Delhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anjali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[More]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[05/04/2005]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[anjali@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[anjali1123@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[anjali@123]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[anjali@123]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Favourite Colour]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Black]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterUserFunctionality -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.RegisterPageTest@57a3af25]" started-at="2023-12-20T20:26:52 IST" name="setUp" finished-at="2023-12-20T20:26:54 IST" duration-ms="2225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateRegisterUserFunctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestLayer.RegisterPageTest@57a3af25]" started-at="2023-12-20T20:26:54 IST" name="validateRegisterUserFunctionality" data-provider="registerTestData" finished-at="2023-12-20T20:27:01 IST" duration-ms="7448" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Diksha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shah]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15/03/2015]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[diksha@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[diksha101@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[diksha@11211]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[diksha@11211]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Favourite Cricketer]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Virat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterUserFunctionality -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.RegisterPageTest@57a3af25]" started-at="2023-12-20T20:27:01 IST" name="setUp" finished-at="2023-12-20T20:27:04 IST" duration-ms="2286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateRegisterUserFunctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestLayer.RegisterPageTest@57a3af25]" started-at="2023-12-20T20:27:04 IST" name="validateRegisterUserFunctionality" data-provider="registerTestData" finished-at="2023-12-20T20:27:12 IST" duration-ms="8114" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Soham]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01/03/2003]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[soham@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[soham1231@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[soham@123]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[soham@123]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Birth City]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Delhi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterUserFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestLayer.RegisterPageTest@57a3af25]" started-at="2023-12-20T20:27:12 IST" name="tearDown" finished-at="2023-12-20T20:27:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestLayer.RegisterPageTest -->
+    </test> <!-- Register Page Test Cases -->
+  </suite> <!-- Passport India Application -->
+</testng-results>
